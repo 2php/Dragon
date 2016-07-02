@@ -31,8 +31,8 @@
 	- we recommend install CUDA8 or higher to support GCC5/VS2015
 
 3. download 3rdparty.zip and unzip to any path
-	- [Win64_VS2013_Release](http://pan.baidu.com/s/1c28xTsc)
-	- [Win64_VS2015_Release](http://pan.baidu.com/s/1dFuiDTv)
+	- [Win64_VS2013_Release](http://pan.baidu.com/s/1qYiWZQO)
+	- [Win64_VS2015_Release](http://pan.baidu.com/s/1nuWlRYh)
 	- Linux64_GCC4 (Use GCC5 but compile libprotobuf with GCC4)
 	- [Linux64_GCC5](http://pan.baidu.com/s/1geZfRHL)
 	- we recommond unzip to /home/xxx/3rdparty (Linux) or C:/3rdparty (Windows)
